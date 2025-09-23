@@ -45,16 +45,33 @@ Hoje sou empreendedor em tecnologia, criando soluções SaaS e microSaaS que com
 ---
 
 ### Onde me encontrar
+
 <a href="https://www.linkedin.com/in/micael-marques/">
-  <img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" style="filter: invert(100%);" />
+    <img alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" />
+  </picture>
 </a>
+
 <a href="https://instagram.com/micaelmrsilva">
-  <img align="left" alt="Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" style="filter: invert(100%);" />
+    <img alt="Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" />
+  </picture>
 </a>
+
 <a href="https://x.com/micaelmrsilva">
-  <img align="left" alt="Twitter/X" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" style="filter: invert(100%);" />
+    <img alt="X" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" />
+  </picture>
 </a>
+
 <a href="http://lattes.cnpq.br/3788114913449602">
-  <img align="left" alt="Lattes" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/readthedocs.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/readthedocs.svg" style="filter: invert(100%);" />
+    <img alt="Lattes" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/readthedocs.svg" />
+  </picture>
 </a>
+
 <br/>
