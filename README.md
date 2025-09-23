@@ -48,10 +48,10 @@ Hoje sou empreendedor em tecnologia, criando soluções SaaS e microSaaS que com
 <a href="https://www.linkedin.com/in/micael-marques/">
   <img align="left" alt="Linkedin" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/>
 </a>
-<a href="https://instagram.com/micasmarques">
+<a href="https://instagram.com/micaelmrsilva">
   <img align="left" alt="Instagram" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg"/>
 </a>
-<a href="https://twitter.com/micasmarquees">
+<a href="[https://twitter.com/micasmarquees](https://x.com/micaelmrsilva)">
   <img align="left" alt="Twitter" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"/>
 </a>
 <a href="http://lattes.cnpq.br/3788114913449602">
