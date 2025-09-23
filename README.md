@@ -1,54 +1,60 @@
-### Hi there, I'm Micael! 👋.
-I am a graduate student in computer engineering, an enthusiast of quantum programming and artificial intelligence.<br/>
-I program mainly in C / C ++, Java and Python, with a focus on Java backend, with SpringBoot.<br/>
+# 👋 Oi, eu sou o Micael
 
-##### You can ask me about:
-* Algorithms
-* OOP
-* TDD
-* Data structure
-* Programming techniques
-* Backend Dev
-* SQL and NoSQL
+Sou **Engenheiro de Computação** e **Desenvolvedor Backend/Full Stack**, com experiência em **Java (Spring Boot)**, **Python**, **Kotlin** e **React Native**.  
+Atuo em projetos que vão de **arquiteturas distribuídas em microserviços** a **apps mobile híbridos**, sempre com foco em **performance, escalabilidade e produto**.  
 
-##### I'm currently working on:
-* Senior Developer
+Hoje sou empreendedor em tecnologia, criando soluções SaaS e microSaaS que combinam **backend robusto**, **experiência do usuário** e **inteligência artificial**.
 
+---
 
-##### Programming languages I know:
-<img align="left" alt="C" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/c.svg" />
-<img align="left" alt="C++" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/cpp.svg" />
-<!-- <img align="left" alt="C#" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/csharp.svg" /> -->
-<!-- <img align="left" alt="F#" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/fsharp.svg" /> -->
-<!--<img align="left" alt="Haskell" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/haskell.svg" /> -->
-<img align="left" alt="Java" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/java.svg" />
-<!-- <img align="left" alt="PHP" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/php.svg" /> -->
-<img align="left" alt="Python" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/python.svg" />
-<!-- <img align="left" alt="Ruby" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/ruby.svg" /> -->
-<br />
+### 🚀 Áreas em que posso contribuir
+- Arquitetura de Software (monólitos escaláveis e microserviços)
+- Java + Spring Boot (APIs REST, segurança, mensageria)
+- Python (scripts, automação, NLP, IA)
+- Bancos SQL e NoSQL
+- DevOps básico (Docker, CI/CD, AWS, GCP)
+- Apps híbridos com React Native
 
-##### More about me:
-* 26 y/o
-* Music lover
-* Books lover
+---
 
+### 💡 Projetos atuais
+- **FitLocus** – Plataforma fitness com IA e automação via WhatsApp.  
+- **Plinq** – App social focado em segurança e comunidade.  
+- **Consultoria** – Criação de software sob demanda e microSaaS.  
 
-##### Here you can find my social medias and other things:
-<a href="https://twitter.com/micasmarquees">
-  <img align="left" alt="Allan Bispo | Twitter" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/twitter.svg" />
-</a>
-<a href="https://open.spotify.com/user/22fyc7idevduncqwwpgmjswei">
-  <img align="left" alt="Allan Bispo | Spotify" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/spotify.svg" />
+---
+
+### 🛠️ Tecnologias principais
+<img align="left" alt="Java" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
+<img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img align="left" alt="PostgreSQL" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="Kotlin" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
+<img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+<img align="left" alt="Docker" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+<br/>
+
+---
+
+### 🌍 Mais sobre mim
+- 26 anos  
+- Empreendedor de software (consultoria + microSaaS)  
+- Apaixonado por música e livros  
+- Sempre explorando novas tecnologias e produtos digitais  
+
+---
+
+### 📫 Onde me encontrar
+<a href="https://www.linkedin.com/in/micael-marques/">
+  <img align="left" alt="Linkedin" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/>
 </a>
 <a href="https://instagram.com/micasmarques">
-  <img align="left" alt="Allan Bispo | Instagram" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg"/>
 </a>
-<a href="https://www.linkedin.com/in/micael-marques/">
-  <img align="left" alt="Allan Bispo | Linkedin" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/linkedin.svg" />
+<a href="https://twitter.com/micasmarquees">
+  <img align="left" alt="Twitter" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"/>
 </a>
 <a href="http://lattes.cnpq.br/3788114913449602">
-  <img align="left" alt="Allan Bispo | Linkedin" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/lattes.svg" />
+  <img align="left" alt="Lattes" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
 </a>
-<br />
-
-*************
+<br/>
