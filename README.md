@@ -15,6 +15,8 @@ Já construí pra estas empresas. Hoje: PulseBrand, Pandora e Seu Imposto.
   <img src="assets/logos-light.svg" alt="AraraHQ, Serasa Experian, Creditas, Accountfy e Accenture" width="100%">
 </picture>
 
+<br>
+
 | | |
 |---|---|
 | 1,5 milhão | de mensagens passaram pela AraraHQ em setembro de 2026, dez meses depois de eu fundar a empresa |
