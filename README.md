@@ -6,7 +6,14 @@ Engenheiro de software e founder da [AraraHQ](https://ararahq.com). Trabalho com
 
 **[Me manda o problema em três linhas](mailto:micael@ararahq.com)** · respondo em 24h com o próximo passo
 
-Já construí pra Serasa Experian, Creditas e Accenture. Hoje: PulseBrand, Pandora e Seu Imposto.
+<a href="https://ararahq.com"><img src="assets/ararahq.jpg" alt="Página inicial da AraraHQ: Chame de volta quem pediu orçamento e sumiu" width="100%"></a>
+
+Já construí pra estas empresas. Hoje: PulseBrand, Pandora e Seu Imposto.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logos-dark.svg">
+  <img src="assets/logos-light.svg" alt="AraraHQ, Serasa Experian, Creditas, Accountfy e Accenture" width="100%">
+</picture>
 
 | | |
 |---|---|
