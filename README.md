@@ -1,25 +1,33 @@
 # Micael Marques
 
-Engenheiro de software e founder da [AraraHQ](https://ararahq.com). Faço produto do zero e opero o que construo.
+**Construo o produto e fico pra operar depois que ele vai pro ar.**
 
-Nasci em Barbalha, no Cariri cearense. Fiz Engenharia de Computação no IFPB, em Campina Grande, onde entrei em primeiro lugar. Passei sete anos fazendo o produto dos outros dar certo, de uma consultoria local até a Serasa Experian. Em 2025 voltei pro Cariri e fundei a AraraHQ: a infraestrutura oficial da Meta pra WhatsApp que empresas usam pra cobrar, atender e vender.
+Engenheiro de software e founder da [AraraHQ](https://ararahq.com). Trabalho com founder que precisa tirar um produto do papel e com empresa que precisa de liderança técnica sem contratar um CTO em tempo integral.
+
+**[Me manda o problema em três linhas](mailto:micael@ararahq.com)** · respondo em 24h com o próximo passo
+
+Já construí pra Serasa Experian, Creditas e Accenture. Hoje: PulseBrand, Pandora e Seu Imposto.
 
 | | |
 |---|---|
-| 1,5 milhão | de mensagens passaram pela AraraHQ em setembro de 2026 |
-| 5.188 | contribuições no GitHub em 12 meses, privados incluídos (medido em 14/10/2026) |
+| 1,5 milhão | de mensagens passaram pela AraraHQ em setembro de 2026, dez meses depois de eu fundar a empresa |
+| 1 milhão | de pessoas simultâneas na infraestrutura que montei pro Seu Imposto na apuração de 5 de outubro de 2026 |
 | 8 anos | de software em produção, desde 2018 |
-| 6 | linguagens com SDK oficial da AraraHQ |
+| 5.188 | contribuições no GitHub em 12 meses, privados incluídos (medido em 14/10/2026) |
 
-## O que construo
+## Dois jeitos de trabalhar comigo
 
-**AraraHQ** · Founder & CEO · [ararahq.com](https://ararahq.com) · [docs](https://docs.ararahq.com)
-Infra oficial da Meta pra WhatsApp. API, painel, campanhas, atendimento e cobrança. Kotlin, Spring Boot, PostgreSQL, Next.js, AWS.
+**Você precisa de um produto, não de um PDF de proposta.**
+Faço do zero: API, painel, infra e deploy, e sigo operando. A AraraHQ é a prova: saiu do zero em novembro de 2025 e hoje é a infraestrutura oficial da Meta pra WhatsApp que empresas usam pra cobrar, atender e vender. Kotlin, Spring Boot, PostgreSQL, Next.js, AWS.
 
-**CTO como serviço e produto sob demanda**
-Hoje atuo na frente técnica da [PulseBrand](https://pulsebrand.io), em produto e dados na [Pandora](https://pandorag.com) e na infraestrutura do [Seu Imposto](https://seuimposto.com), montada pra mais de 1 milhão de pessoas simultâneas na apuração de 5 de outubro de 2026.
+**Você precisa de alguém que assuma a tecnologia, não de mais um freelancer.**
+CTO como serviço: decisão de arquitetura, evolução do produto e sustentação da operação. Hoje faço isso na [PulseBrand](https://pulsebrand.io), em produto e dados na [Pandora](https://pandorag.com) e na infraestrutura do [Seu Imposto](https://seuimposto.com), que agora evolui pra 10 milhões de simultâneos.
 
-## Código aberto
+O medo de todo mundo que contrata dev é a entrega que some junto com quem fez. Por isso opero o que construo.
+
+**[Falar comigo](mailto:micael@ararahq.com)** · [micaelm.com](https://micaelm.com)
+
+## O que publico em código aberto
 
 | Projeto | O que faz |
 |---|---|
@@ -49,10 +57,10 @@ npm install @ararahq/sdk
 | Accenture Brasil | Associate Software Engineering | dez 2019 a set 2021 |
 | Logos Consultoria | Desenvolvedor de software | abr 2018 a dez 2019 |
 
-Java e Kotlin com Spring Boot, Kafka, Redis, PostgreSQL, gRPC. TypeScript com Next.js e React. Python pra dados. AWS e GCP.
+Java e Kotlin com Spring Boot, Kafka, Redis, PostgreSQL, gRPC. TypeScript com Next.js e React. Python pra dados. AWS e GCP. Engenharia de Computação no IFPB, em Campina Grande. Nasci em Barbalha e moro em Juazeiro do Norte, no Cariri cearense.
 
 ## Falar comigo
 
-Resposta em 24h.
+Me manda o problema em três linhas. Respondo em 24h com o que eu faria e qual é o próximo passo.
 
-[micael@ararahq.com](mailto:micael@ararahq.com) · [micaelm.com](https://micaelm.com) · [LinkedIn](https://www.linkedin.com/in/micael-marques/) · [X](https://x.com/micaelmrsilva)
+**[micael@ararahq.com](mailto:micael@ararahq.com)** · [micaelm.com](https://micaelm.com) · [LinkedIn](https://www.linkedin.com/in/micael-marques/) · [X](https://x.com/micaelmrsilva)
