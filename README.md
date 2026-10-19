@@ -38,13 +38,6 @@ npx -y @ararahq/mcp login
 npm install @ararahq/sdk
 ```
 
-## Como trabalho
-
-1. Restrição é vantagem.
-2. A API é a verdade.
-3. Lança rápido, corrige mais rápido.
-4. Construo o que roda sem mim.
-
 ## Por onde passei
 
 | Empresa | Cargo | Período |
