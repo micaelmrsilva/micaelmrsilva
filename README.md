@@ -1,68 +1,65 @@
-# Oi, eu sou o Micael 👋
+# Micael Marques
 
-Sou **Engenheiro de Computação** e **Empreendedor de Tecnologia (Tech Founder)**. Minha especialidade é construir produtos digitais robustos do zero à escala — combinando **backend de alta performance**, **experiência de usuário fluida** e **inteligência artificial**.
+Engenheiro de software e founder da [AraraHQ](https://ararahq.com). Faço produto do zero e opero o que construo.
 
-Atualmente, atuo desenhando arquiteturas distribuídas, lidando com alta volumetria de dados e integrações complexas (Telecom, APIs, Mensageria), além de criar soluções SaaS e microSaaS com foco em performance e negócios.
+Nasci em Barbalha, no Cariri cearense. Fiz Engenharia de Computação no IFPB, em Campina Grande, onde entrei em primeiro lugar. Passei sete anos fazendo o produto dos outros dar certo, de uma consultoria local até a Serasa Experian. Em 2025 voltei pro Cariri e fundei a AraraHQ: a infraestrutura oficial da Meta pra WhatsApp que empresas usam pra cobrar, atender e vender.
 
----
+| | |
+|---|---|
+| 1,5 milhão | de mensagens passaram pela AraraHQ em setembro de 2026 |
+| 5.188 | contribuições no GitHub em 12 meses, privados incluídos (medido em 14/10/2026) |
+| 8 anos | de software em produção, desde 2018 |
+| 6 | linguagens com SDK oficial da AraraHQ |
 
-### 🛠️ Áreas de Expertise
-- **Arquitetura de Software:** Monólitos escaláveis, microserviços e sistemas de alta concorrência.
-- **Backend & Mensageria:** Java / Kotlin + Spring Boot (APIs REST, WebSockets/STOMP, Filas/Workers).
-- **Ecosistema Fullstack:** Next.js, React, TypeScript, Tailwind CSS.
-- **Inteligência Artificial & Dados:** Python (NLP, automações), integração com LLMs (OpenAI, Groq, Whisper).
-- **Cloud & DevOps:** PostgreSQL, Docker, CI/CD, AWS, GCP, Serverless.
-- **Mobile:** Apps híbridos com React Native.
+## O que construo
 
----
+**AraraHQ** · Founder & CEO · [ararahq.com](https://ararahq.com) · [docs](https://docs.ararahq.com)
+Infra oficial da Meta pra WhatsApp. API, painel, campanhas, atendimento e cobrança. Kotlin, Spring Boot, PostgreSQL, Next.js, AWS.
 
-### 🚀 Projetos Atuais
-- **AraraHQ** – Plataforma SaaS B2B e infraestrutura em nuvem para roteamento e automação de mensageria (WhatsApp/Telecom).
-- **Arara Labs** – Plataforma educacional (LMS) focada em performance com sistema de tracking de vídeo customizado.
-- **AraraBot** – MicroSaaS B2C impulsionado por IA para transcrição, resumo e memória de áudios no WhatsApp.
-- **FitLocus** – Plataforma fitness integrada com IA e automação via WhatsApp.  
-- **Consultoria** – Criação de software sob demanda e arquitetura de sistemas.
+**CTO como serviço e produto sob demanda**
+Hoje atuo na frente técnica da [PulseBrand](https://pulsebrand.io), em produto e dados na [Pandora](https://pandorag.com) e na infraestrutura do [Seu Imposto](https://seuimposto.com), montada pra mais de 1 milhão de pessoas simultâneas na apuração de 5 de outubro de 2026.
 
----
+## Código aberto
 
-### 💻 Tecnologias Principais
+| Projeto | O que faz |
+|---|---|
+| [pluma](https://github.com/ararahq/pluma) | Teu dataset não cabe no contexto do modelo? O pluma entrega ao agente só o trecho que ele pediu e exporta o resultado. No mesmo pacote, Markdown pra PDF sem Chromium. |
+| [mcp](https://github.com/ararahq/mcp) | Teu agente de IA opera o WhatsApp da empresa: dispara, mede o que voltou e responde quem respondeu. Dez ferramentas. |
+| [sdks](https://github.com/ararahq) | SDK oficial da AraraHQ em Node, Python, Go, Ruby, PHP e Java. |
+| [cli](https://github.com/ararahq/cli) | WhatsApp Business de ponta a ponta pelo terminal: mensagens, templates e campanhas. |
+| [ararahq-code](https://github.com/ararahq/ararahq-code) | Agente de código de terminal. A arquitetura faz o trabalho barato antes de chamar o modelo. |
+| [revoada](https://github.com/micaelmrsilva/revoada) | App de macOS que junta várias contas de Claude Code, Codex, Gemini e Grok numa conversa só, e segue trabalhando quando uma bate no limite. |
+| [authzdx](https://github.com/micaelmrsilva/authzdx) | BaaS em que toda tabela nasce trancada e a regra de acesso é escrita por quem não é especialista em banco. Em cima de Postgres RLS. Em desenvolvimento. |
+| [skillsmith](https://github.com/micaelmrsilva/skillsmith) | Minhas skills de Claude Code, em português: produto, pricing e jurídico. |
 
-<p align="left">
-  <img alt="Kotlin" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-  <img alt="Java" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="Spring" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img alt="TypeScript" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img alt="Next.js" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-  <img alt="React" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img alt="Python" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="PostgreSQL" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img alt="Docker" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-</p>
+```bash
+npm install @ararahq/pluma
+npx -y @ararahq/mcp login
+npm install @ararahq/sdk
+```
 
-<br/>
+## Como trabalho
 
----
+1. Restrição é vantagem.
+2. A API é a verdade.
+3. Lança rápido, corrige mais rápido.
+4. Construo o que roda sem mim.
 
-### ⚡ Mais sobre mim
-- 🎓 27 anos.
-- 💡 Focado em transformar código em produtos rentáveis.
-- 🎧 Apaixonado por música, livros e *bootstrapping*.
-- 🚀 Sempre explorando novas stacks, ferramentas de produtividade e modelos de negócios digitais.
+## Por onde passei
 
----
+| Empresa | Cargo | Período |
+|---|---|---|
+| AraraHQ | Founder & CEO | nov 2025 até hoje |
+| Serasa Experian | Senior Software Development Engineer, squad do Serasa Limpa Nome | out 2024 a nov 2025 |
+| Creditas | Senior Full Stack Engineer | set 2023 a ago 2024 |
+| Accountfy | Software Engineer | set 2021 a nov 2023 |
+| Accenture Brasil | Associate Software Engineering | dez 2019 a set 2021 |
+| Logos Consultoria | Desenvolvedor de software | abr 2018 a dez 2019 |
 
-### 📫 Onde me encontrar
+Java e Kotlin com Spring Boot, Kafka, Redis, PostgreSQL, gRPC. TypeScript com Next.js e React. Python pra dados. AWS e GCP.
 
-<a href="https://www.linkedin.com/in/micael-marques/">
-  <img align="left" alt="LinkedIn" width="32px" style="padding-right:10px;" src="https://img.icons8.com/color/48/linkedin.png"/>
-</a>
-<a href="https://x.com/micaelmrsilva">
-  <img align="left" alt="X (Twitter)" width="32px" style="padding-right:10px;" src="https://img.icons8.com/ios-filled/50/000000/x.png"/>
-</a>
-<a href="https://instagram.com/micaelmrsilva">
-  <img align="left" alt="Instagram" width="32px" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/instagram-new.png"/>
-</a>
-<a href="http://lattes.cnpq.br/3788114913449602">
-  <img align="left" alt="Lattes" width="32px" style="padding-right:10px;" src="https://img.icons8.com/ios-filled/50/000000/open-book.png"/>
-</a>
-<br/>
+## Falar comigo
+
+Resposta em 24h.
+
+[micael@ararahq.com](mailto:micael@ararahq.com) · [micaelm.com](https://micaelm.com) · [LinkedIn](https://www.linkedin.com/in/micael-marques/) · [X](https://x.com/micaelmrsilva)
